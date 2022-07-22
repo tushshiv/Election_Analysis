@@ -5,7 +5,7 @@ The purpose of this election audit is to automate the output of the additional d
 * The percentage of votes from each county out of the total count
 * The county with the highest turnout
 
-##Election-Audit Results
+## Election-Audit Results
 
 * 369711 votes were cast in this congressional election
 * breakdown of the number of votes and the percentage of total votes for each county in the precinct is as follows
@@ -24,4 +24,6 @@ The purpose of this election audit is to automate the output of the additional d
   
      ![image](Winner_election.PNG)
      
-##Election Audit Summary
+## Election Audit Summary
+The Same project can be extended to presidential.
+For Presidential elections the county dictionary can be changed to Provincial dictionary. THis can be furhter automated by giving in an input for the user to choose whether he/she is voting for presidential election or local election with the help of an if else iteration.
