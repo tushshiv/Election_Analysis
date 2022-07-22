@@ -6,9 +6,9 @@ The purpose of this election audit is to automate the output of the additional d
 * The county with the highest turnout
 
 
-* 369711 votes were cast1 in this congressional election
-![county votes]() 
-* breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+* 369711 votes were cast in this congressional election
+* breakdown of the number of votes and the percentage of total votes for each county in the precinct is as follows
+![image](/county vote.jpg)
 Which county had the largest number of votes?
 Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
