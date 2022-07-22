@@ -5,15 +5,15 @@ The purpose of this election audit is to automate the output of the additional d
 * The percentage of votes from each county out of the total count
 * The county with the highest turnout
 
+##Election-Audit Results
 
 * 369711 votes were cast in this congressional election
 * breakdown of the number of votes and the percentage of total votes for each county in the precinct is as follows
 
   ![county votes](election_county.PNG)
 
-* Which county had the largest number of votes : Denver
-
-
+* Which county had the largest number of votes : 
+ Denver
 
 * Breakdown of the number of votes and the percentage of the total votes each candidate received.
   
@@ -21,3 +21,7 @@ The purpose of this election audit is to automate the output of the additional d
 
 * Candidate who won the election, their vote count, and their percentage of the total votes
  
+  
+     ![image](Winner_election.PNG)
+     
+##Election Audit Summary
