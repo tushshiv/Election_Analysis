@@ -9,7 +9,7 @@ The purpose of this election audit is to automate the output of the additional d
 * 369711 votes were cast in this congressional election
 * breakdown of the number of votes and the percentage of total votes for each county in the precinct is as follows
 
-![county votes](county votes.JPG)
+![county votes] (County vote results.PNG)
 
 * Which county had the largest number of votes : Denver
 
