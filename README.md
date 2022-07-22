@@ -16,7 +16,7 @@ The purpose of this election audit is to automate the output of the additional d
 
 
 * Breakdown of the number of votes and the percentage of the total votes each candidate received.
-
+  
 
 
 * Candidate who won the election, their vote count, and their percentage of the total votes
