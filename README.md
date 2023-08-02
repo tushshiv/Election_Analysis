@@ -26,4 +26,4 @@ The purpose of this election audit is to automate the output of the additional d
      
 ## Election Audit Summary
 The Same project can be extended to presidential.
-For Presidential elections the county dictionary can be changed to Provincial dictionary. THis can be furhter automated by giving in an input for the user to choose whether he/she is voting for presidential election or local election with the help of an if else iteration.
+For Presidential elections the county dictionary can be changed to Provincial dictionary. This can be further automated by giving in an input for the user to choose whether he/she is voting for presidential election or local election with the help of an if else iteration.
